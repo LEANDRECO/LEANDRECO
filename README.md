@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá! Eu sou o Leandro Cesar Filho / Hello! I'm Leandro Cesar Filho
 
-<!--
-**LEANDRECO/LEANDRECO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Cursando Ciência da Computação / Studying Computer Science
+- 📫 Email: leandrocdesouzafilho@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LEANDRECO&show_icons=true&theme=light"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LEANDRECO&show_icons=true"
+    media="(prefers-color-scheme: ligth), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LEANDRECO&show_icons=true" />
+</picture>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEANDRECO&layout=compact"/>
+</a>
